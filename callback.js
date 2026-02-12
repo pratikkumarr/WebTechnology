@@ -1,6 +1,3 @@
-// Pratik Kumar
-// CS 4C
-// Univ Roll No.: 2400290120187
 
 
 function checkLogin(callback){

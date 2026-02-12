@@ -62,9 +62,6 @@
 
 
 // ------------------------------------------------------
-// Pratik Kumar
-// CS 4C
-// 2400290120187
 // const promiseOne = new Promise(function(resolve, reject){
 //     setTimeout(()=>{
 //         let error = true
@@ -87,9 +84,6 @@
 // consumepromiseOne()
 
 // --------------------------------------------------------
-// Pratik Kumar
-// CS 4C
-// 2400290120187
 
 const promiseOne = new Promise(function(resolve, reject){
     setTimeout(() => {
